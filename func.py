@@ -18,8 +18,6 @@ def tax_count(income):
         return total
 
 
-
-
 total_tax = tax_count(700000)
 
 print(f"You have to pay {total_tax} SEK in taxes")
