@@ -25,6 +25,6 @@ print(f"You have to pay {total_tax} SEK in taxes")
 if total_tax >= 150000: 
     print("Yikes!")
 else: 
-    print("Good for you")
+    print("Good for you!")
 
 
