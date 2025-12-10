@@ -14,3 +14,27 @@ You can find the swedish tax calvculator in the file "tax_calc.py". Using the fu
 ## Rock, Paper, Scissors 
 
 You can find the classical Rock, paper, scissors game in the file "rps_game.py". Thsi game isnt yet finished. 
+
+## Calculator 
+
+You can find this simple calculator in the file "calc.py". You can use addition, subtraction, multiplication, disvison, squaring, to the power of. 
+
+#### Addition 
+Write a or A to be able to add x + y
+
+#### Subtraction 
+Write s or S to be able to sub x - y 
+
+#### Multiplication 
+Write m or M to be able to multiply x * y 
+
+#### Divison 
+Write d or D to be able to divide x/y 
+
+#### To the power of 
+
+Wite p or P to be able to square x, one input 
+
+#### Square root 
+
+Write sq to squre x, one input 
